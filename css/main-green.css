@@ -759,7 +759,7 @@ body > footer .copyrights {
   float: right;
 }
 
-.menu-toggle i {
+.menu-toggle em {
   color: #fff;
   font-size: 21px;
   line-height: 50px;
@@ -921,7 +921,7 @@ body > footer .copyrights {
   box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
 }
 
-.start-page-content .social-links a em {
+.start-page-content .social-links a  {
   line-height: 36px;
   font-size: 16px;
 }
